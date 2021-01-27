@@ -1,4 +1,5 @@
 # Data_Science_Survey_Kaggle_2021
+- Note: I'm not sure why the tables show up so strechted in the display on github. 
 Analysis of Kaggle 2021 survey data of time taken 
 # Kaggle 2021 Survey - Exploratory Data Analysis and Prediction based on demographics.
 
